@@ -5,7 +5,7 @@ This repository showcases a complete Business Intelligence lifecycle, transformi
 
 ---
 
-## 🏗️ Phase 1: Data Warehouse Engineering & ETL (Assignment 01)
+## 🏗️ Phase 1: Data Warehouse Engineering & ETL 
 This phase focuses on backend architecture, dimensional modeling, and the automation of data movement using **SQL Server** and **SSIS**.
 
 ### **1. Data Modeling (Star Schema)**
@@ -44,14 +44,14 @@ The logic was verified through data profiling and SQL testing to ensure that his
 
 ---
 
-## 📂 Repository Structure (Assignment 01)
+## 📂 Repository Structure 
 * **`/01-Data-Warehouse-Engineering/SQL-Scripts`**: T-SQL scripts for Staging and DW creation.
 * **`/01-Data-Warehouse-Engineering/SSIS-Packages`**: ETL automation logic files (.dtsx).
 * **`/01-Data-Warehouse-Engineering/Database-Design`**: Diagrams, screenshots, and the **Technical Report**.
 
 ---
 
-## 📊 Phase 2: Business Intelligence & Analytical Modeling (Assignment 02)
+## 📊 Phase 2: Business Intelligence & Analytical Modeling 
 This phase focuses on creating an analytical layer using **SSAS Cubes** and visualizing business trends via **Power BI**.
 
 ### **1. Analytical Modeling (SSAS Cube)**
@@ -76,7 +76,7 @@ The final output is an interactive dashboard featuring a modern Teal-themed aest
 
 ---
 
-## 📂 Repository Breakdown (Assignment 02)
+## 📂 Repository Breakdown 
 * **`/01-Source-Data`**: The original Excel dataset used for the project.
 * **`/02-SSAS-Cube-Project`**: Full Visual Studio project for the OLAP cube.
 * **`/03-PowerBI-Report`**: [Download .pbix File ](https://drive.google.com/drive/folders/1KX8M6nYm7ySayjdvSK5u42zsyBvuDLEm?usp=sharing)
